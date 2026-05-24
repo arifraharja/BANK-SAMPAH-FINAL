@@ -1540,9 +1540,9 @@ export default function App() {
                         <div className="bg-white text-slate-900 rounded-3xl p-6 md:p-10 shadow-2xl space-y-6 max-w-4xl mx-auto border border-slate-300">
                           {/* Letterhead */}
                           <div className="text-center border-b-2 border-slate-900 pb-5 space-y-1">
-                            <h2 className="text-xs uppercase tracking-widest font-mono font-black text-emerald-700">Pemerintah Kabupaten Bantul</h2>
-                            <h3 className="text-base font-bold uppercase font-display text-slate-850">Kantor Kepala Desa Purwosari</h3>
-                            <p className="text-[9px] text-slate-500 font-mono">Jl. Parangtritis Km 21, Purwosari, Bantul, DIY — Kode Pos 55781</p>
+                            <h2 className="text-xs uppercase tracking-widest font-mono font-black text-emerald-700">Pemerintah Kabupaten Banyumas</h2>
+                            <h3 className="text-base font-bold uppercase font-display text-slate-850">Kantor Balai Desa Purwosari</h3>
+                            <p className="text-[9px] text-slate-500 font-mono">Jl. Suparto No. 25, RT.3/RW.01, Dusun II, Kec. Baturraden, Kab. Banyumas, Jawa Tengah — Kode Pos 53126</p>
                           </div>
 
                           <div className="space-y-4">
