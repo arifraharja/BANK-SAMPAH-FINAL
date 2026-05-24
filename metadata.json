@@ -1,0 +1,6 @@
+{
+  "name": "SPK Bank Sampah Purwosari",
+  "description": "Sistem Pendukung Keputusan Penentuan Lokasi Bank Sampah Desa Purwosari berbasis metode SMART yang transparan, interaktif, dan adaptif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
