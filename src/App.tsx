@@ -1045,7 +1045,7 @@ export default function App() {
                                       <h4 className="font-display font-medium text-sm text-white line-clamp-1">{alt.nama}</h4>
                                       <span className="text-[10px] text-slate-400 flex items-center gap-1 mt-0.5">
                                         <MapPin className="w-3 h-3 text-emerald-400 shrink-0" />
-                                        <span>Purwosari, Bantul, DIY</span>
+                                        <span>Purwosari, Kec. Baturraden, Kab. Banyumas, Jawa Tengah</span>
                                       </span>
                                     </div>
                                   </div>
